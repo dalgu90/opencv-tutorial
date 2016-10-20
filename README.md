@@ -1,5 +1,5 @@
 # opencv-tutorial
-A short tutorial on OpenCV-Python, SIFT feature matching and homography
+A short tutorial on OpenCV-Python, SIFT feature matching, homography and object classification
 
 ## Tutorial index
 1. OpenCV-Python Getting Started  
